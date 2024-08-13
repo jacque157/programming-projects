@@ -1,6 +1,6 @@
 # Sokoban Solver
 
-The aim of this project is to solve a planning problem, namely Sokoban puzzle. Sokoban is a puzzle game invented by Hiroyuki Imabayashi. Player is tasked by moving every single pushable block into designated area. Since player can only push boxes, performing wrong moved may lead to unsolvable game. Sprites were taken from: <https://www.spriters-resource.com/commodore_64/sokoban/sheet/96761/>
+The aim of this project is to solve a planning problem, namely Sokoban puzzle. Sokoban is a puzzle game invented by Hiroyuki Imabayashi. Player is tasked by moving every single pushable block into designated area. Since player can only push boxes, performing wrong moves may lead to unsolvable game. Sprites were taken from: <https://www.spriters-resource.com/commodore_64/sokoban/sheet/96761/>
 
 ![Puzzle being solved.](images/problem.png)
 ![Puzzle solved.](images/problem_solved.png)
