@@ -1,0 +1,3 @@
+C:/Users/erikj/Desktop/projekty/repository/programming-projects/School-projects/year-2/associative-array/cmake-build-debug/CMakeFiles/Jakubovsky_projekt.dir
+C:/Users/erikj/Desktop/projekty/repository/programming-projects/School-projects/year-2/associative-array/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/erikj/Desktop/projekty/repository/programming-projects/School-projects/year-2/associative-array/cmake-build-debug/CMakeFiles/rebuild_cache.dir

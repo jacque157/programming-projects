@@ -13,6 +13,6 @@ This project is a recreation of a well known bomb game. The game can be played w
 ![Player vs ai.](./images/gameplay1.png)
 ![Player vs player.](./images/gameplay2.png)
 
-* The aim of the game is to hurt your the other player while avoiding bomb explosions.  
-* Some boxes contain upgrades, which either increase the players bomb radius or increase the number of bomb the player can place.
-* Controls and number of matches can be edited in game settings.
+* The aim of the game is to hurt the other player while avoiding bomb explosions.  
+* Some boxes contain upgrades, which either increase the players bomb radius or increase the number of bombs the player can place.
+* Controls and number of matches can be edited in the game settings.
