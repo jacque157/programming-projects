@@ -1,0 +1,15 @@
+1 1
+11 13
+x x x x x x x x x x x x x x x
+x s s 0 0 0 b b 0 b b b b 0 x
+x s x x x 0 x x x 0 x x x 0 x
+x b x 0 0 b b 0 b b b 0 x b x
+x 0 b 0 x x x b x x x b b b x
+x b x b x b 0 0 0 0 x 0 x 0 x
+x b x b 0 0 b 0 b b b 0 x b x
+x b x b x b 0 0 0 0 x b x b x
+x b 0 0 x x x 0 x x x 0 0 b x
+x 0 x b b b b b 0 0 b b x b x
+x 0 x x x 0 x x x b x x x s x
+x b b 0 0 b 0 0 b b b 0 s s x
+x x x x x x x x x x x x x x x

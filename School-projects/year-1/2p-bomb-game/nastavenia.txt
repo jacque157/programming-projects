@@ -1,0 +1,11 @@
+3
+w
+s
+d
+a
+e
+Up
+Down
+Right
+Left
+Control_R
