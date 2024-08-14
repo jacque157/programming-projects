@@ -1,0 +1,81 @@
+[VXX_SVXX_TXX] AMASS Data Preparation Began.
+ Using standard AMASS dataset preparation pipeline: 
+    0) Donwload all npz files from https://amass.is.tue.mpg.de/ 
+    1) Convert npz files to pytorch readable pt files. 
+    2) Either use these files directly or augment them in parallel and write into h5 files
+    3)[optional] If you have augmented your data, dump augmented results into final pt files and use with your dataloader
+Stage I: Fetch data from AMASS npz files
+randomly selecting data points from HumanEva.
+[VXX_SVXX_TXX] AMASS Data Preparation Began.
+ Using standard AMASS dataset preparation pipeline: 
+    0) Donwload all npz files from https://amass.is.tue.mpg.de/ 
+    1) Convert npz files to pytorch readable pt files. 
+    2) Either use these files directly or augment them in parallel and write into h5 files
+    3)[optional] If you have augmented your data, dump augmented results into final pt files and use with your dataloader
+Stage I: Fetch data from AMASS npz files
+randomly selecting data points from HumanEva.
+[VXX_SVXX_TXX] AMASS Data Preparation Began.
+ Using standard AMASS dataset preparation pipeline: 
+    0) Donwload all npz files from https://amass.is.tue.mpg.de/ 
+    1) Convert npz files to pytorch readable pt files. 
+    2) Either use these files directly or augment them in parallel and write into h5 files
+    3)[optional] If you have augmented your data, dump augmented results into final pt files and use with your dataloader
+Stage I: Fetch data from AMASS npz files
+randomly selecting data points from HumanEva.
+randomly selecting data points from MPI_HDM05.
+randomly selecting data points from SFU.
+randomly selecting data points from MPI_mosh.
+randomly selecting data points from Transitions_mocap.
+randomly selecting data points from SSM_synced.
+[VXX_SVXX_TXX] AMASS Data Preparation Began.
+ Using standard AMASS dataset preparation pipeline: 
+    0) Donwload all npz files from https://amass.is.tue.mpg.de/ 
+    1) Convert npz files to pytorch readable pt files. 
+    2) Either use these files directly or augment them in parallel and write into h5 files
+    3)[optional] If you have augmented your data, dump augmented results into final pt files and use with your dataloader
+Stage I: Fetch data from AMASS npz files
+randomly selecting data points from Transitions_mocap.
+[VXX_SVXX_TXX] AMASS Data Preparation Began.
+ Using standard AMASS dataset preparation pipeline: 
+    0) Donwload all npz files from https://amass.is.tue.mpg.de/ 
+    1) Convert npz files to pytorch readable pt files. 
+    2) Either use these files directly or augment them in parallel and write into h5 files
+    3)[optional] If you have augmented your data, dump augmented results into final pt files and use with your dataloader
+Stage I: Fetch data from AMASS npz files
+randomly selecting data points from Transitions_mocap.
+[VXX_SVXX_TXX] AMASS Data Preparation Began.
+ Using standard AMASS dataset preparation pipeline: 
+    0) Donwload all npz files from https://amass.is.tue.mpg.de/ 
+    1) Convert npz files to pytorch readable pt files. 
+    2) Either use these files directly or augment them in parallel and write into h5 files
+    3)[optional] If you have augmented your data, dump augmented results into final pt files and use with your dataloader
+Stage I: Fetch data from AMASS npz files
+randomly selecting data points from Transitions_mocap.
+randomly selecting data points from SSM_synced.
+randomly selecting data points from TCD_handMocap.
+randomly selecting data points from TotalCapture.
+randomly selecting data points from MPI_Limits.
+randomly selecting data points from ACCAD.
+randomly selecting data points from CMU.
+[VXX_SVXX_TXX] AMASS Data Preparation Began.
+ Using standard AMASS dataset preparation pipeline: 
+    0) Donwload all npz files from https://amass.is.tue.mpg.de/ 
+    1) Convert npz files to pytorch readable pt files. 
+    2) Either use these files directly or augment them in parallel and write into h5 files
+    3)[optional] If you have augmented your data, dump augmented results into final pt files and use with your dataloader
+Stage I: Fetch data from AMASS npz files
+randomly selecting data points from KIT.
+randomly selecting data points from TotalCapture.
+randomly selecting data points from CMU.
+randomly selecting data points from ACCAD.
+randomly selecting data points from MPI_Limits.
+randomly selecting data points from Eyes_Japan_Dataset.
+randomly selecting data points from EKUT.
+randomly selecting data points from TCD_handMocap.
+Stage II: augment the data and save into h5 files to be used in a cross framework scenario.
+vald has 10374 data points!
+test has 867 data points!
+train has 84635 data points!
+
+Stage III: dump every data field for all the splits as final pytorch pt files
+Dumped final pytorch dataset at ../../../../data\stage_III

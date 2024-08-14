@@ -1,0 +1,1 @@
+run create script to convert w x h x 3 pointclouds stored as matlab arrays in mat directory into  w x h x 3 pointclouds in numpy format
