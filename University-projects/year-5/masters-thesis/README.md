@@ -25,5 +25,7 @@ This repository contains most of the code used to achieve the results reported i
 | **DLA-34 (Absolute Pose, structured camera pt. clouds)** |      **44.939**    |
 
 The following GIFs show the qualitative results of DLA-34 trained on structured point clouds. The red poses represent predictions, while the blue poses represent the ground truth.
+
 ![Predicted poses by CenterNet](images/predictions.gif)
+
 ![Different poses predicted by CenterNet](images/predictions2.gif)
